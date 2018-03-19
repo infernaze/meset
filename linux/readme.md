@@ -1,0 +1,42 @@
+# Linux things
+- Vim
+- Scripting
+- Makefile
+- Compiling apps from source
+- Text Manipulation
+    - awk
+    - sed
+    - grep
+    - sort
+    - uniq
+    - cat
+    - cut
+    - echo
+    - fmt
+    - tr
+    - nl
+    - egrep
+    - fgrep
+    - wc
+- Process Monitoring
+    - ps
+    - top
+    - htop
+    - atop
+- Networking
+    - nmap
+    - tcpdump
+    - ping
+    - mtr
+    - traceroute
+    - airmon
+    - airdump
+- System Performance
+    - nmon
+    - iostat
+    - sar
+    - vmstat
+- IP table
+- Cron job
+- df -h
+- free
